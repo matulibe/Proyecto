@@ -1,0 +1,50 @@
+Arroz;112
+Asado;2027
+Avena;114
+Banana;89
+Barrita de cereal;110
+Barrita de frutos secos;184
+Bife;271
+Bizcochuelo;297
+Brownie;243
+Burrito;206
+Cafe con leche;22
+Cesar;700
+Cereal;152
+Cerveza;240
+Dulce y queso;251
+Empanada;260
+Ensalada;180
+Galletitas;50
+Galletitas diet;50
+Gaseosa;252
+Gaseosa light;1
+Hamburguesa;300
+Helado;600
+Huevo duro;144
+Huevo frito;196
+Huevo revuelto;167
+Mandarina;62
+Manzana;52
+Medialuna;200
+Milanesa al horno;245
+Milanesa frita;310
+Nachos;880
+Naranja;62
+Ñoquis;400
+Omelette;154
+Pan;78
+Panqueque;227
+Papas fritas;312
+Pasta;345
+Pizza;160
+Pollo;239
+Ravioles;390
+Rhodesia;115
+Ribbs;351
+Salchicha;81
+Tarta;203
+Tacos;226
+Torta;371
+Tostadas comunes;130
+Tostadas diet;100

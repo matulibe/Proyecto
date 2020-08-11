@@ -1,0 +1,10 @@
+Bicicleta;260
+Boxeo;400
+Caminar;138
+Correr;285
+Funcional;400
+Nadar;144
+Pesas;223
+Soga;372
+Tenis;260
+Yoga;149
